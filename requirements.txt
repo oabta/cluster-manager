@@ -1,0 +1,8 @@
+-e .[full]
+
+# Testing
+pytest
+
+# Packaging
+build
+twine
